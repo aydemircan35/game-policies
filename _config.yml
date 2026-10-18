@@ -1,0 +1,10 @@
+title: MAYSOFT
+description: MAYSOFT legal policies
+url: https://aydemircan35.github.io
+baseurl: /game-policies
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
